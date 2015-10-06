@@ -10,7 +10,7 @@ namespace TeamTBA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tjenare!!");
+            Console.WriteLine("Tjenare alle sammans!!");
             Console.ReadLine();
         }
     }
