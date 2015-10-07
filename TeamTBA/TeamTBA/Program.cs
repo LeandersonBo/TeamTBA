@@ -11,8 +11,8 @@ namespace TeamTBA
         static void Main(string[] args)
         {
 
-            var x = 0;
-            var y = 0;
+            var x = 1;
+            var y = 1;
 
             Console.WriteLine("Tjenare alle sammans!!");
             Console.ReadLine();
